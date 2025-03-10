@@ -1,6 +1,7 @@
 # Object Oriented design principles group project
 
-Run "java RestaurantApp" to start the application
+1. Clone repo 
+2. Run "java RestaurantApp" to start the application
 
 # Overview
 A simple console-based restaurant management system written in Java. It provides a menu-driven interface where users can interact with different features related to a restaurant’s operations.
@@ -13,3 +14,5 @@ Tables: View and manage available tables for customers.\
 Order: Manage customer orders.\
 Reservations: Manage customer reservations for tables.\
 Exit: Close the application.
+
+
